@@ -1,0 +1,12 @@
+.pizza{
+  background: url("../photo/lol.jpg");
+  background-size:cover;
+  color: #444a4a;
+}
+.red{
+  color: red;
+}
+legend{
+  color: #38456e;
+}
+img{}
